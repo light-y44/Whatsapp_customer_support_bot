@@ -1,0 +1,9 @@
+flask
+python-dotenv
+openai
+aiohttp
+requests
+langchain_community
+chromadb
+pypdf
+langchain_core
